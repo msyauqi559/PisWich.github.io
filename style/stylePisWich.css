@@ -629,6 +629,7 @@ section {
     justify-content: center;
     transition: var(--transition);
     box-shadow: var(--shadow-sm);
+    color: white;
 }
 
 .social-link:hover {
@@ -858,4 +859,5 @@ section {
     .section-title {
         font-size: 1.8rem;
     }
+
 }
